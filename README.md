@@ -44,7 +44,7 @@ Install Windows Terminal in Microsoft Store
 
 # Installing and Configuring Fonts
   
-  FiraCode Nerd Font
+  [FiraCode Nerd Font](https://github.com/mukunthan7/OhMyGod-Theme/tree/main/FiraCode%20Nerd%20Font)
   
   You can install it with double click
 
