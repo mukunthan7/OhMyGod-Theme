@@ -11,7 +11,7 @@
  [Winget Install link](https://github.com/microsoft/winget-cli/releases/download/v1.0.11692/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle)
 
 # Winget in Windows Terminal
-
+## Installing Winget
     winget install Windows Terminal
 
 # Powershell 
@@ -23,23 +23,24 @@
 [Powershell 7 Install link](https://github.com/PowerShell/PowerShell/releases)
 
 ## open your PowerShell as Administrator and run the following command
-
+#
+## Enter the command in PowerShell as Administrator
     Set-ExecutionPolicy Unrestricted
 
 ## Open Normal Powershell Installing OhMyPosh Using PowerShell, install Posh-Git and Oh-My-Posh:
-  
-  
+#
+## Installing Posh-Git
     Install-Module posh-git -Scope CurrentUser
    
-
+## Installing Oh-My-Posh
     Install-Module oh-my-posh -Scope CurrentUser
-   
-  
+## Installing PSReadLine 
     Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
    
 
 ## Installing module for icons  in PowerShell To install the module from the PowerShell Gallery:
-  
+#
+## Installing Terminal-Icons
     Install-Module -Name Terminal-Icons -Repository PSGallery
 
 # Installing and Configuring Fonts
