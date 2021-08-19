@@ -2,7 +2,7 @@
 
 # Microsoft Store
 
-Install Windows Terminal in Microsoft Store
+## Install Windows Terminal in Microsoft Store
 
  [Windows Terminal in Microsoft Store](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 
@@ -16,31 +16,31 @@ Install Windows Terminal in Microsoft Store
 
 # Powershell 
  
-!Install Powershell7 or using default  Powershell
+ Install Powershell7 or using default  Powershell
 
 # PowerShell7 install 
 
 [Powershell 7 Install link](https://github.com/PowerShell/PowerShell/releases)
 
-# open your PowerShell as Administrator and run the following command
+## open your PowerShell as Administrator and run the following command
 
-   Set-ExecutionPolicy Unrestricted
+    Set-ExecutionPolicy Unrestricted
 
-# Open Normal Powershell Installing OhMyPosh Using PowerShell, install Posh-Git and Oh-My-Posh:
+## Open Normal Powershell Installing OhMyPosh Using PowerShell, install Posh-Git and Oh-My-Posh:
   
   
-   Install-Module posh-git -Scope CurrentUser
+    Install-Module posh-git -Scope CurrentUser
    
 
-   Install-Module oh-my-posh -Scope CurrentUser
+    Install-Module oh-my-posh -Scope CurrentUser
    
   
-   Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
+    Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
    
 
-# Installing module for icons  in PowerShell To install the module from the PowerShell Gallery:
+## Installing module for icons  in PowerShell To install the module from the PowerShell Gallery:
   
-   Install-Module -Name Terminal-Icons -Repository PSGallery
+    Install-Module -Name Terminal-Icons -Repository PSGallery
 
 # Installing and Configuring Fonts
   
