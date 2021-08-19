@@ -29,11 +29,12 @@
 
 ## Open Normal Powershell Installing OhMyPosh Using PowerShell, install Posh-Git and Oh-My-Posh:
 #
+## Installing Oh-My-Posh
+    Install-Module oh-my-posh -Scope CurrentUser
+
 ## Installing Posh-Git
     Install-Module posh-git -Scope CurrentUser
    
-## Installing Oh-My-Posh
-    Install-Module oh-my-posh -Scope CurrentUser
 ## Installing PSReadLine 
     Install-Module -Name PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
    
