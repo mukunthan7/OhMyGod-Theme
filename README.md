@@ -55,11 +55,12 @@
   powershell 7 or Default PowerShell
 
 # Oh My God Theme
-
+## Git repo indicator
 ![Oh My God Theme](images/OhMyGod.png)
-
+## Programming Language ls command icons
 ![Oh My God Theme](images/OhMyGod-Theme-ls.png)
-
+## Programming Language  location indicator icons
+![Oh My God Theme](images/ohmygod-icon.png)
 
 
 
